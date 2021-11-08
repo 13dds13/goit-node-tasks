@@ -1,0 +1,29 @@
+{
+  "name": "goit-node-tasks",
+  "version": "1.0.0",
+  "description": "bc-online-10",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/13dds13/goit-node-tasks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/13dds13/goit-node-tasks/issues"
+  },
+  "homepage": "https://github.com/13dds13/goit-node-tasks#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^8.3.0"
+  }
+}
